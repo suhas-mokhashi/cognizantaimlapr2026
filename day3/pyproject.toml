@@ -1,0 +1,37 @@
+[project]
+name = "healthcare"
+version = "0.1.0"
+description = "Healthcare system to map patients to doctors based on disease"
+authors = [
+
+    { name = "suhas", email = "mokhashisuhas@gmail.com" }
+
+]
+requires-python = ">=3.10"
+dependencies = [
+
+    "faker"
+
+]
+ 
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+[tool.black]
+line-length = 88
+target-version = ["py310"]
+[tool.flake8]
+max-line-length = 88
+exclude = [
+
+    ".venv",
+
+    "__pycache__",
+
+    "build",
+
+    "dist"
+
+]
+
+
