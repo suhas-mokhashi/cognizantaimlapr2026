@@ -1,0 +1,60 @@
+
+Customer ID : 1
+First Name  : Amit
+Last Name   : Sharma
+Email       : amit.sharma@example.com
+Phone No    : +91-9000000001
+
+Customer ID : 2
+First Name  : Neha
+Last Name   : Nair
+Email       : neha.nair@example.com
+Phone No    : +91-9000000002
+
+Customer ID : 3
+First Name  : Rahul
+Last Name   : Verma
+Email       : rahul.verma@example.com
+Phone No    : +91-9000000003
+
+Customer ID : 4
+First Name  : Priya
+Last Name   : Iyer
+Email       : priya.iyer@example.com
+Phone No    : +91-9000000004
+
+Customer ID : 5
+First Name  : Suresh
+Last Name   : Menon
+Email       : suresh.menon@example.com
+Phone No    : +91-9000000005
+
+Customer ID : 6
+First Name  : Anita
+Last Name   : Gupta
+Email       : anita.gupta@example.com
+Phone No    : +91-9000000006
+
+Customer ID : 7
+First Name  : Vikas
+Last Name   : Malhotra
+Email       : vikas.malhotra@example.com
+Phone No    : +91-9000000007
+
+Customer ID : 8
+First Name  : Kavya
+Last Name   : Pillai
+Email       : kavya.pillai@example.com
+Phone No    : +91-9000000008
+
+Customer ID : 9
+First Name  : Rohan
+Last Name   : Khanna
+Email       : rohan.khanna@example.com
+Phone No    : +91-9000000009
+
+Customer ID : 10
+First Name  : Meera
+Last Name   : Das
+Email       : meera.das@example.com
+Phone No    : +91-9000000010

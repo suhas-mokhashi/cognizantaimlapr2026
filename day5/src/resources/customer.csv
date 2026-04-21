@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone_no
+1,Amit,Sharma,amit.sharma@example.com,9000000001
+2,Neha,Nair,neha.nair@example.com,9000000002
+3,Rahul,Verma,rahul.verma@example.com,9000000003
+4,Suhas,Mokhashi,suhas.mokhashi@example.com,9000000004
+5,Suresh,Menon,suresh.menon@example.com,9000000005
+6,Anita,Gupta,anita.gupta@example.com,9000000006
+7,Vikas,Malhotra,vikas.malhotra@example.com,9000000007
+8,Kavya,Pillai,kavya.pillai@example.com,9000000008
+9,Rohan,Khanna,rohan.khanna@example.com,9000000009
+10,Meera,Das,meera.das@example.com,9000000010

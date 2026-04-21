@@ -1,0 +1,72 @@
+[
+  {
+    "customer_id": 1,
+    "first_name": "Amit",
+    "last_name": "Sharma",
+    "email": "amit.sharma@example.com",
+    "phone_no": "9000000001"
+  },
+  {
+    "customer_id": 2,
+    "first_name": "Neha",
+    "last_name": "Nair",
+    "email": "neha.nair@example.com",
+    "phone_no": "9000000002"
+  },
+  {
+    "customer_id": 3,
+    "first_name": "Rahul",
+    "last_name": "Verma",
+    "email": "rahul.verma@example.com",
+    "phone_no": "9000000003"
+  },
+  {
+    "customer_id": 4,
+    "first_name": "Priya",
+    "last_name": "Iyer",
+    "email": "priya.iyer@example.com",
+    "phone_no": "9000000004"
+  },
+  {
+    "customer_id": 5,
+    "first_name": "Suresh",
+    "last_name": "Menon",
+    "email": "suresh.menon@example.com",
+    "phone_no": "9000000005"
+  },
+  {
+    "customer_id": 6,
+    "first_name": "Anita",
+    "last_name": "Gupta",
+    "email": "anita.gupta@example.com",
+    "phone_no": "9000000006"
+  },
+  {
+    "customer_id": 7,
+    "first_name": "Vikas",
+    "last_name": "Malhotra",
+    "email": "vikas.malhotra@example.com",
+    "phone_no": "9000000007"
+  },
+  {
+    "customer_id": 8,
+    "first_name": "Kavya",
+    "last_name": "Pillai",
+    "email": "kavya.pillai@example.com",
+    "phone_no": "9000000008"
+  },
+  {
+    "customer_id": 9,
+    "first_name": "Rohan",
+    "last_name": "Khanna",
+    "email": "rohan.khanna@example.com",
+    "phone_no": "9000000009"
+  },
+  {
+    "customer_id": 10,
+    "first_name": "Meera",
+    "last_name": "Das",
+    "email": "meera.das@example.com",
+    "phone_no": "9000000010"
+  }
+]

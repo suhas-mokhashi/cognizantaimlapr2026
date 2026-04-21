@@ -1,0 +1,34 @@
+#configure toml
+[project]
+name = "Banking"
+version = "1.0.0"
+description = "Banking Application"
+
+readme = "README.md"
+authors = [
+    {name="Suhas",email="mokhashisuhas@gmail.com"}
+]
+requires-python = ">=3.8"
+# production dependencies
+dependencies = [
+    "pydantic>=2.0.0",
+    "pydantic[email]>=2.0.0",
+    "python-dotenv>=0.19.0",
+    "faker>=13.3.4",
+    "pandas>=2.0.0"
+]
+
+#development dependencies
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.2.0",
+    "pytest-html>=4.2.0",
+    "pytest-cov>=3.0.0",
+    "black>=23.3.0",
+    "isort>=5.10.1",
+   
+]
+
+[tool.black]
+line-length = 88
+target-version = ['py313']
